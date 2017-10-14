@@ -14,4 +14,7 @@ Current Idea: Make an RNN and run it on labeled sleep data.
 Needs: Data, RNN, Fitbit API, Test suite?, etc.
 
 <h1>Second idea</h1>
-Run sales records for a specific field into an RNN and try to analyze successful patterns. It's like mining the phone call records, but instead it might eventually be good enough to call and sell on its own.
+Run sales records in a specific domain into an RNN and try to analyze successful patterns. It's like mining the phone call records, but instead it might eventually be good enough to call and sell on its own. If not perhaps it can provide useful ways to improve, or what differences between two sales people exist.
+
+<h1>Third idea</h1>
+Force wake-up based on ML model guessing when force waking up will be successful.
